@@ -6,5 +6,7 @@ package.xml
 **/jsconfig.json
 
 **/.eslintrc.json
-.vscode
-mdapi-source/*
+.vscode/
+mdapi-source/
+.sfdx/
+temp/
