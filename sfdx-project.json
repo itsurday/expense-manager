@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "namespace": "",
+  "namespace": "starwars710",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "45.0"
 }
